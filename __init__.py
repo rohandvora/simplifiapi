@@ -1,1 +1,1 @@
-from simplifiapi.api import *
+from simplifiapi.api.simplifi import *
